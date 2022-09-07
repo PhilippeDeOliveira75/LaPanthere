@@ -50,6 +50,17 @@ template {
     display: none
 }
 
+.flex-center{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex-around{
+    display: flex;
+    justify-content: space-around;
+}
+
 a {
     background-color: transparent
 }
