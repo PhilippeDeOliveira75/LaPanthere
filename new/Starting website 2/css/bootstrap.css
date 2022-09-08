@@ -1609,6 +1609,7 @@ h1 {
 
 .h2,
 h2 {
+    color: #000;
     font-size: 30px
 }
 
@@ -1884,9 +1885,7 @@ blockquote .small,
 blockquote footer,
 blockquote small {
     display: block;
-    font-size: 80%;
     line-height: 1.42857143;
-    color: #777
 }
 
 blockquote .small:before,
